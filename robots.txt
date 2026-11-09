@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ali0-99.github.io/axiom-cooperation/sitemap.xml
+Sitemap: https://razascalesoffical.github.io/Axiom-Cooperation/sitemap.xml
