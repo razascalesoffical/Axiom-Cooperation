@@ -2,7 +2,7 @@
 
 **Axiom Cooperation** is an umbrella company built around five divisions: **Trading, Finance, Marketing, Technology and Ventures**. This repository is the official company website, a showcase of Axiom's projects, software solutions and digital offerings.
 
-🌐 **Website:** [razascalesoffical.github.io/axiom-cooperation](https://razascalesoffical.github.io/axiom-cooperation/)
+🌐 **Website:** [razascalesoffical.github.io/axiom-cooperation](https://razascalesoffical.github.io/Axiom-cooperation/)
 
 ## Divisions
 
